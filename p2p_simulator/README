@@ -1,0 +1,19 @@
+p2p_simulator/
+│
+├── main.py
+├── config/
+│   ├── common.cfg
+│   └── peer_info.cfg
+├── core/
+│   ├── event.py
+│   ├── event_queue.py
+│   ├── simulator.py
+├── network/
+│   ├── peer.py
+│   ├── server.py
+│   ├── client.py
+│   └── message.py
+├── utils/
+│   ├── file_handler.py
+│   ├── logger.py
+│   └── configs.py
